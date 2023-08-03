@@ -28,6 +28,7 @@
 #menusuperior{
     background-image: url(imagens/fundo-menusuperior.svg);
     color: aliceblue;
+    background-repeat: no-repeat; background-size: cover;
 }
 
 #menuinformacional{
